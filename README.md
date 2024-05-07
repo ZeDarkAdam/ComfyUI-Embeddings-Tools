@@ -4,4 +4,4 @@
 
 
 ## **Install:**
-To install, drop the "_**comfyui_lora_tag_loader**_" folder into the "_**...\ComfyUI\ComfyUI\custom_nodes**_" directory and restart UI.
+To install, drop the "_**ComfyUI-Embeddings-Tools**_" folder into the "_**...\ComfyUI\ComfyUI\custom_nodes**_" directory and restart UI.
