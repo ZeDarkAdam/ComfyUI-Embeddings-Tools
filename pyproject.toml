@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-embeddings-tools"
+description = "EmbeddingsNameLoader, EmbendingList"
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/ZeDarkAdam/ComfyUI-Embeddings-Tools"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI-Embeddings-Tools"
+Icon = ""
