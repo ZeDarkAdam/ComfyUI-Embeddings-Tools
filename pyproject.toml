@@ -9,6 +9,6 @@ Repository = "https://github.com/ZeDarkAdam/ComfyUI-Embeddings-Tools"
 #  Used by Comfy Registry https://comfyregistry.org
 
 [tool.comfy]
-PublisherId = ""
+PublisherId = "zedarkadam"
 DisplayName = "ComfyUI-Embeddings-Tools"
 Icon = ""
